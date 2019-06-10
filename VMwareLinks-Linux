@@ -1,6 +1,133 @@
-
-
 https://www.vmware.com/go/getworkstation-linux
 http://download3.vmware.com/demos/ws/
 
-https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-15.1.0-13591040.x86_64.bundle
+Preceed download filename with "https://download3.vmware.com/software/wkst/file/"
+e.g. https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-15.1.0-13591040.x86_64.bundle
+
+Name: VMware-Workstation-Full-15.1.0-13591040.x86_64.bundle 
+Release Date: 2019-05-14
+Build Number: 13591040
+This Workstation bundle includes the full product and VMware Tools for Linux 64-bit operating systems. 
+MD5SUM: 3212ed00463784ca8c67b5acd2c8d1cd 
+SHA1SUM: 5cca6e6caf5a4adde9ce91b72deb348d3bf784e0
+SHA256SUM: 55f8b9d4015fa958eba1aac72cc9985d34f22d1df5d027d7c34f1f4bf4f0c01d
+
+Name: VMware-Workstation-Full-15.0.4-12990004.x86_64.bundle 
+Release Date: 2019-03-28
+Build Number: 12990004
+This Workstation bundle includes the full product and VMware Tools for Linux 64-bit operating systems. 
+MD5SUM: ca77ed83e0fd3ce72dd164b50d888279 
+SHA1SUM: b7d35a72ac9d9f547d3ffd31463bee7f13e748f5
+SHA256SUM: 2d9e82471e5ad8316de1bcdaf2851ea9e3777545fbfc8a4bc78570035311d959
+
+
+Name: VMware-Workstation-Full-15.0.3-12422535.x86_64.bundle 
+Release Date: 2019-03-14
+Build Number: 12422535
+This Workstation bundle includes the full product and VMware Tools for Linux 64-bit operating systems. 
+MD5SUM: 6364190f5f87df219de23b54fa94c6ae 
+SHA1SUM: c28ea4b9ebaa03d3fda8eadc5ac1744f1872caeb
+SHA256SUM: abc956af04224401ef772186909bd1955d178369152980dff5eebc6f7b800855
+
+
+VMware-Workstation-Full-15.0.2-10952284.x86_64.bundle 
+Release Date: 2018-11-22
+Build Number: 10952284
+This Workstation bundle includes the full product and VMware Tools for Linux 64-bit operating systems. 
+MD5SUM: 19892d7a641ec7893c5da54392ca723d 
+SHA1SUM: 6b63f0b6524ea44edd4c1b18054767a07adc8b4d
+SHA256SUM: 22675343abd4d88a78399c9af8b271912161d28d58bbb58f0af0804a9957a96a
+
+Name: VMware-Workstation-Full-15.0.1-10737736.x86_64.bundle 
+Release Date: 2018-11-09
+Build Number: 10737736
+This Workstation bundle includes the full product and VMware Tools for Linux 64-bit operating systems. 
+MD5SUM: 0e8d66052ac587402b8f73cf90b02153 
+SHA1SUM: 96f9cb137b3de50067154a859294c4aeb5ccfa17
+SHA256SUM: 02fc07d01a1967547bee27aaa95b56e616342ae492aa0df94df40f891d013e89
+
+Name: VMware-Workstation-Full-15.0.0-10134415.x86_64.bundle 
+Release Date: 2018-09-24
+Build Number: 10134415
+This Workstation bundle includes the full product and VMware Tools for Linux 64-bit operating systems. 
+MD5SUM: 462e8db2a6d0df59af8ebac3af609235 
+SHA1SUM: a3de1f597b5facd4a8c084da5717786f88133154
+SHA256SUM: 00c50710ef23a88fdff2d6c81554820d45797c62c8d72630cd2c69fd43014d94
+
+Name: VMware-Workstation-Full-14.1.7-12989993.x86_64.bundle 
+Release Date: 2019-03-28
+Build Number: 12989993
+This Workstation bundle includes the full product and VMware Tools for Linux 64-bit operating systems. 
+MD5SUM: 3dd758fdc904e68f9aae93f9d9807d31 
+SHA1SUM: 9fec0952e735ced419eb4cca3e135aa1bd619f8d
+SHA256SUM: a9b5ff8adb885a064f582f700c2ad42aa6c2a3b1b8964f3f8cab35cc084c89c4
+
+Name: VMware-Workstation-Full-14.1.6-12368378.x86_64.bundle 
+Release Date: 2019-03-14
+Build Number: 12368378
+This Workstation bundle includes the full product and VMware Tools for Linux 64-bit operating systems. 
+MD5SUM: a6d5582463cfd770fc912ef9cbf5fd91 
+SHA1SUM: 92da7c9c3a358f2cb286f72390123fd94b795562
+SHA256SUM: 0d59207fa5d5ac587469608ec763958376f9feb9860c401e086cbc7c78be2629
+
+Name: VMware-Workstation-Full-14.1.5-10950780.x86_64.bundle 
+Release Date: 2018-11-22
+Build Number: 10950780
+This Workstation bundle includes the full product and VMware Tools for Linux 64-bit operating systems. 
+MD5SUM: 7b8e7d3f92c5131213a78e371d0fc0a9 
+SHA1SUM: ecd668031cc8bacc7fd3d66d4771de0e871e6fa5
+SHA256SUM: 6a002b42219d2011e828b1208f63fac3eb479e16da158a0fa7a6a940aec3d3ae
+
+Name: VMware-Workstation-Full-14.1.4-10722678.x86_64.bundle 
+Release Date: 2018-11-09
+Build Number: 10722678
+This Workstation bundle includes the full product and VMware Tools for Linux 64-bit operating systems. 
+MD5SUM: 7616e1e7f037a406ebda38eaf55989f8 
+SHA1SUM: 80a4071bc7afe973420c1cc4319c50d59fd224e0
+SHA256SUM: 62d949f06a9ecd916e072f99b3e3f8b5b1ca0ae8c74d7e695fa5ace2ee476196
+
+Name: VMware-Workstation-Full-14.1.3-9474260.x86_64.bundle 
+Release Date: 2018-08-14
+Build Number: 9474260
+This Workstation bundle includes the full product and VMware Tools for Linux 64-bit operating systems. 
+MD5SUM: c28ff86338d2e20bfb317c54afcce850 
+SHA1SUM: 553517a4b394c0e2311461a53bcf575a26880718
+SHA256SUM: 29d128ad6e1f2fc72414fd80d5bc8f82f186f1e21ab09db44441f1e84b5e0373
+
+Name: VMware-Workstation-Full-14.1.2-8497320.x86_64.bundle 
+Release Date: 2018-05-21
+Build Number: 8497320
+This Workstation bundle includes the full product and VMware Tools for Linux 64-bit operating systems. 
+MD5SUM: f077c30d037b85e30eb8187d970498bc 
+SHA1SUM: 06cc0034aa1e256dc23ff13dcc58318121d16336
+SHA256SUM: 8932c681a8954c4aaf0e7d0039c6d8dff9ade323170d9a9a78553c98ffe16963
+
+Name: VMware-Workstation-Full-14.1.1-7528167.x86_64.bundle 
+Release Date: 2018-01-09
+Build Number: 7528167
+This Workstation bundle includes the full product and VMware Tools for Linux 64-bit operating systems. 
+MD5SUM: cd30e7c2359a3dc1a5e1b1d1b17727b9 
+SHA1SUM: 33b14992f870fd3ed230e86b453788a8b8026b84
+SHA256SUM: f010fe9f6ad1653f7d33e7ac29abee26a06cfabe9eb58f23547dfd9df05889f6
+
+Name: VMware-Workstation-Full-14.1.0-7370693.x86_64.bundle 
+Release Date: 2017-12-21
+Build Number: 7370693
+This bundle includes the full product and VMware Tools for Linux 64-bit operating systems. 
+MD5SUM: 8d48ce725e601a6fe9d55ebab6a432ae 
+SHA1SUM: eba3f9604540930db15e24ed56f3efe14a7d1be8
+SHA256SUM: 522f368c3ce009b4cd442c25215b022fc09a520a668b4e3189af5194f50ca14a
+
+Name: VMware-Workstation-Full-14.0.0-6661328.x86_64.bundle 
+Release Date: 2017-09-26
+Build Number: 6661328
+This bundle includes the full product and VMware Tools for Linux 64-bit operating systems. 
+MD5SUM: 8fc9d58ddd29a2c220df8318556405fa 
+SHA1SUM: e8bfdedd81b1076d0e3dcd62d0bed23e3bcbc1f9
+SHA256SUM: f758e06d302b339c23f9c498d6dbf8a0182cfdfb71e4cdcc209ecfb68e20500a
+
+
+
+
+
+
