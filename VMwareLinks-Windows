@@ -2,34 +2,81 @@ This is a compilation of links that can be acquired from the VMware website.
 
 https://www.vmware.com/go/getworkstation-win
 
-https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.1.0-13591040.exe
-MD5SUM: f80fde2d48221da17da4ee5671540afe 
-SHA1SUM: 45b42919f1657f46eed04601756d4281da405599
-SHA256SUM: 81b0af803b7f8e85867fef5a2450b8e0de7b09bd105ce96b1af334581f75fe92
+Preceed filename with https://download3.vmware.com/software/wkst/file/
+e.g. https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.1.0-13591040.exe
 
-https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.0.4-12990004.exe
-MD5SUM: 24856730a3ec3a03780a898e0369b657 
-SHA1SUM: ef3e05da30e3f06d1274b77c7045095ae0aef2d3
-SHA256SUM: e1bae491a1ce559c89b3b836197cddf41e675ba5acf55aa16e86f151c5ee5bca
 
-https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.0.3-12422535.exe 
-MD5SUM: d5db7db318e35b93ce0e339c97a95739 
-SHA1SUM: c18f4a74c7af5bece33df3402ed6e88f30a4f8b2
-SHA256SUM: 76c4246edebf98135129a15269618e0778b19419caaac0bffe39884d58ab4407
+Name: VMware-workstation-full-14.1.7-12989993.exe 
+Release Date: 2019-03-28
+Build Number: 12989993
+This Workstation product installation includes VMware Tools for Windows 64-bit operating systems. 
+MD5SUM: e838b874a8e40bf0ebd50df5627ad923 
+SHA1SUM: 7c7c8205a3c67b6afd69d75f7d68291bcc5fb4e6
+SHA256SUM: e927a6547316a55f6cbbca11e8b74cd97346e92083177ae0e1c148031dcfaf03
 
-https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.0.2-10952284.exe 
-MD5SUM: 8e8102994aa5f0614610637b6eb815ec 
-SHA1SUM: 2c4658abe07052fc90854242cae933c9ef00336a
-SHA256SUM: c4adc199a474bdaf865f0ee661024a4b5a9e6c73d4c4047bb82128417d07c75c
+Name: VMware-workstation-full-14.1.6-12368378.exe 
+Release Date: 2019-03-14
+Build Number: 12368378
+This Workstation product installation includes VMware Tools for Windows 64-bit operating systems. 
+MD5SUM: 1f394a798bd332d313555b5ed8190704 
+SHA1SUM: 7ed4c1040a1c1b176fac4fac9fcb4e077a88deed
+SHA256SUM: a3abccdfe8728120d058f29805aa2794002ebd59e6ea7acc9bf7cd52adef6856
 
-https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.0.1-10737736.exe 
-MD5SUM: f08e518052ef84d87239306d9464d394 
-SHA1SUM: 4ae1351fe96948c462d398a425fe8e04e448e6f6
-SHA256SUM: 2a4c8be9ac1765f31d2b79f4f39b46f3b183bac2723818c46a51ac3d792a6c87
+Name: VMware-workstation-full-14.1.5-10950780.exe 
+Release Date: 2018-11-22
+Build Number: 10950780
+This Workstation product installation includes VMware Tools for Windows 64-bit operating systems. 
+MD5SUM: 618e3c62e3c850c49cc0bb46ccc745c0 
+SHA1SUM: 61ed621cbda3db7f3ee7d3ed9161284461129c62
+SHA256SUM: 16455069642371eca3af75b2141f3c74289436dcb6e32fc960a0605290dacb70
 
-https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.0.0-10134415.exe 
-MD5SUM: e29580600a3beaf47df852fcc4f108c0 
-SHA1SUM: ede6d31a5bd5071f1fb0134992063e3ed9ae39a6
-SHA256SUM: 409598a8ba29119b0aa4856f3486b4e3457e2a19098056f9ce500f02834bff9e
+Name: VMware-workstation-full-14.1.4-10722678.exe 
+Release Date: 2018-11-09
+Build Number: 10722678
+This Workstation product installation includes VMware Tools for Windows 64-bit operating systems. 
+MD5SUM: 994ac1b2b096a1767085ec4499a5ab4f 
+SHA1SUM: af4925fddf99960fa08d5f89e63632de4b525132
+SHA256SUM: 7aa9a99f84650135e8f6d6f840e5a35f20ee20689d095fb5fc603f42396c6ea9
+
+Name: VMware-workstation-full-14.1.3-9474260.exe 
+Release Date: 2018-08-14
+Build Number: 9474260
+This Workstation product installation includes VMware Tools for Windows 64-bit operating systems. 
+MD5SUM: d4808be7a32f5d731dd11e9d285497f1 
+SHA1SUM: 217caef2a01a8f7e412d9bedd9c9ac5b4e913455
+SHA256SUM: a33e53e918ae24617660d4bc72c427c5ddd8fcc8b0038b0f58b70c151b24dd07
+
+Name: VMware-workstation-full-14.1.2-8497320.exe 
+Release Date: 2018-05-21
+Build Number: 8497320
+This Workstation product installation includes VMware Tools for Windows 64-bit operating systems. 
+MD5SUM: 79935903c0c0ed415ef965751c9c5b15 
+SHA1SUM: e4f69ed194fe46a266e56cd6c83d05ea2241192e
+SHA256SUM: 33caa5ddac80f75dfd17215eeafab46856dfa7f45219260f7663f4a583cfd0c0
+
+Name: VMware-workstation-full-14.1.1-7528167.exe 
+Release Date: 2018-01-09
+Build Number: 7528167
+This Workstation product installation includes VMware Tools for Windows 64-bit operating systems. 
+MD5SUM: 40356030561a11c5387e32e239f74cab 
+SHA1SUM: 06e0dd8615f5a085768605f26f31090f552f47e3
+SHA256SUM: 2d360e5f90cdbef9cbd1ec598b99890dfc26a06d7227bcbc30da1ec635d055e8
+
+Name: VMware-workstation-full-14.1.0-7370693.exe 
+Release Date: 2017-12-21
+Build Number: 7370693
+This product installation includes VMware Tools for Windows 64-bit operating systems. 
+MD5SUM: dbb68ef94254ce3465e9f6982b30bcaa 
+SHA1SUM: c083db65f65d78fdd5cfc4b03ffc0c38b5d9925a
+SHA256SUM: ceae5d2d1f4542fc29d3d1d9de77e9707829cf6bb9098ec598c04a4d15b31dfc
+
+Name: VMware-workstation-full-14.0.0-6661328.exe 
+Release Date: 2017-09-26
+Build Number: 6661328
+This product installation includes VMware Tools for Windows 64-bit operating systems. 
+MD5SUM: 32ea815fe34c6f92b0a2204d6f83d532 
+SHA1SUM: 9e0c1154bd24a6950de3e24a0590c3b4909c1fb3
+SHA256SUM: c596279eceb407d376daae2e91038529182af24a3144afc451aa85e9f41d48dd
+
 
 http://download3.vmware.com/software/wkst/file/VMware-workstation-full-10.0.0-1295980.exe
