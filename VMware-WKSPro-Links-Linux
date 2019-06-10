@@ -1,7 +1,23 @@
 https://www.vmware.com/go/getworkstation-linux
 http://download3.vmware.com/demos/ws/
 
-Preceed download filename with "https://download3.vmware.com/software/wkst/file/"
+https://my.vmware.com/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation_pro/15_0
+https://my.vmware.com/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation_pro/14_0
+https://my.vmware.com/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation_pro/12_0
+https://my.vmware.com/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation/11_0
+https://my.vmware.com/group/vmware/info?slug=desktop_end_user_computing/vmware_workstation/10_0
+https://my.vmware.com/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation/9_0
+
+https://my.vmware.com/web/vmware/details?downloadGroup=WKST-1504-LX&productId=799&rPId=31699
+https://my.vmware.com/group/vmware/details?downloadGroup=WKST-1417-LX&productId=686&rPId=31682
+https://my.vmware.com/group/vmware/details?downloadGroup=WKST-1259-LX&productId=524&rPId=20841
+https://my.vmware.com/group/vmware/details?downloadGroup=WKST-1114-LX&productId=462&rPId=11029
+https://my.vmware.com/group/vmware/details?downloadGroup=WKST-1006-LX&productId=362&rPId=8483
+https://my.vmware.com/group/vmware/details?downloadGroup=WKST-904-LX&productId=293&rPId=6194
+
+
+
+Prepend download filename with https://download3.vmware.com/software/wkst/file/
 e.g. https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-15.1.0-13591040.x86_64.bundle
 
 Name: VMware-Workstation-Full-15.1.0-13591040.x86_64.bundle 
