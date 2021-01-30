@@ -1,0 +1,85 @@
+
+
+
+https://my.vmware.com/group/vmware/downloads/get-download?downloadGroup=VIXAPI114
+
+
+
+VMware-VIX-1.14.0-2306114.x86_64.bundle
+File size: 27 MB
+File type: bundle
+Release Date: 2015-03-12
+Build Number: 2306114
+Virtual Infrastructure eXtension (VIX) SDK
+The VIX SDK enables you to develop code to manage and automate the in-guests needs for vSphere virtual machines.
+MD5SUM: 7f2265e2471fb4c9e2b23e1a71cc0d65
+SHA1SUM: c70281c030d67077d516cd6867d5a019bc0a9e13
+
+
+
+VMware-VIX-1.14.0-2306114.i386.bundle
+File size: 26 MB
+File type: bundle
+Release Date: 2015-03-12
+Build Number: 2306114
+Virtual Infrastructure eXtension (VIX) SDK
+The VIX SDK enables you to develop code to manage and automate the in-guests needs for vSphere virtual machines.
+MD5SUM: 4168afbfd56d02e8023d1d701dc63ffc
+SHA1SUM: 5efb9b3db8b02788d6fe8ea38f3667459f0e3925
+
+
+
+VMware-VIX-1.14.0-2306114.exe
+File size: 46 MB
+File type: exe
+Release Date: 2015-03-12
+Build Number: 2306114
+Virtual Infrastructure eXtension (VIX) SDK
+The VIX SDK enables you to develop code to manage and automate the in-guests needs for vSphere virtual machines.
+MD5SUM: a2681b0a0fe0bca8cec76f852d9cec00
+SHA1SUM: 44d4dd83823eff8e1c61f59a41130ce419c55f80
+
+https://download2.vmware.com/software/sdk/VMware-VIX-1.14.0-2306114.exe?HashKey=fd572f8a519e8f8dd99e74308f59547b&ext=.exe&params=%7B%22custnumber%22%3A%22d2QlaipkZWQqcA%3D%3D%22%2C%22sourcefilesize%22%3A%2246+MB%22%2C%22dlgcode%22%3A%22VIXAPI114%22%2C%22languagecode%22%3A%22en%22%2C%22source%22%3A%22BETA%22%2C%22downloadtype%22%3A%22manual%22%2C%22eula%22%3A%22N%22%2C%22downloaduuid%22%3A%229b1c2778-46d6-47c8-b8d6-fe67fe4de8aa%22%2C%22purchased%22%3A%22N%22%2C%22dlgtype%22%3A%22Drivers+%26+Tools%22%2C%22productversion%22%3A%221.14.0%22%7D&AuthKey=1612022188_de1c79ccf423a98287d8f0a953286ce1&ext=.exe
+
+
+
+VMware-VIX-1.12.0-812388.exe
+File size: 139M
+File type: bundle
+Release Date: 2013-09-22
+Build Number: 812388
+VIX SDK for Windows
+The VIX API helps you write programs and scripts to automate virtual machine operations and run programs that manipulate files within guest operating systems. VIX programs run on Windows or Linux and support management of VMware Workstation, Player, and ESX or ESXi, optionally through vCenter. Bindings are provided for C, Perl and COM.
+MD5SUM: 5ecba1e8ea045cb1e33c6ded8fc4043e
+SHA1SUM: 14f19e7b5b2181e1f6c3272e17fb1ced518c0aba
+
+
+VMware-VIX-1.12.0-812388.i386.bundle
+File size: 80M
+File type: bundle
+Release Date: 2013-09-22
+Build Number: 812388
+VIX SDK for Linux 32-bit
+The VIX API helps you write programs and scripts to automate virtual machine operations and run programs that manipulate files within guest operating systems. VIX programs run on Windows or Linux and support management of VMware Workstation, Player, and ESX or ESXi, optionally through vCenter. Bindings are provided for C, Perl and COM.
+MD5SUM: d429d783cb68a7550d44c4390c53f3bb
+SHA1SUM: a8981f4ef5148c318a890c99cd526ff730216259
+
+
+VMware-VIX-1.12.0-812388.x86_64.bundle
+File size: 85M
+File type: bundle
+Release Date: 2013-09-22
+Build Number: 812388
+VIX SDK for Linux 64-bit
+The VIX API helps you write programs and scripts to automate virtual machine operations and run programs that manipulate files within guest operating systems. VIX programs run on Windows or Linux and support management of VMware Workstation, Player, and ESX or ESXi, optionally through vCenter. Bindings are provided for C, Perl and COM.
+MD5SUM: d46ca45a52e957fafbaa570cd14e1997
+SHA1SUM: 743a7b0e230685210ea6e3253ff5478afe3550ca
+
+
+https://download2.vmware.com/software/sdk/VMware-VIX-1.12.0-812388.exe?HashKey=a0fd515b9e3321b7e20306ea7121b4c6&ext=.exe&params=%7B%22custnumber%22%3A%22d2QlaipkZWQqcA%3D%3D%22%2C%22sourcefilesize%22%3A%22139M%22%2C%22dlgcode%22%3A%22VIXAPI112%22%2C%22languagecode%22%3A%22en%22%2C%22source%22%3A%22BETA%22%2C%22downloadtype%22%3A%22manual%22%2C%22eula%22%3A%22N%22%2C%22downloaduuid%22%3A%22f99f41fa-89e7-4220-b88c-4a9942ad4919%22%2C%22purchased%22%3A%22N%22%2C%22dlgtype%22%3A%22Drivers+%26+Tools%22%2C%22productversion%22%3A%221.12%22%7D&AuthKey=1612022267_0010f0f1eedb13651a31ca76109be5ae&ext=.exe
+https://download2.vmware.com/software/sdk/VMware-VIX-1.12.0-812388.exe
+
+
+
+
+
