@@ -8,6 +8,8 @@ https://my.vmware.com/group/vmware/free#desktop_end_user_computing/vmware_player
 https://my.vmware.com/group/vmware/free#desktop_end_user_computing/vmware_player/4_0
 https://my.vmware.com/group/vmware/free#desktop_end_user_computing/vmware_player/3_0
 
+https://my.vmware.com/web/vmware/downloads/details?downloadGroup=PLAYER-1259&productId=522
+
 Prepend https://download3.vmware.com/software/player/file/ before filename.
 e.g. https://download3.vmware.com/software/player/file/VMware-player-14.0.0-6661328.exe
 
@@ -357,6 +359,27 @@ File : VMware-Fusion-10.0.0-6665085.dmg
 Size : 469.74 MB
 SHA-1 : 36BB83C15F3A8B4456817D30A783F207DF167599
 Release Notes: VMware Fusion 10.0 Release Notes
+
+
+
+
+Name:	VMware-player-12.5.9-7535481.exe
+Release Date:	2018-01-10
+Build Number:	7535481
+VMware Workstation 12.5.9 Player for Windows 64-bit Operating Systems.
+MD5SUM:	a6cf22909b4381caa733dcf20a865767
+SHA1SUM:	eeed223167f797b4daf5315e9349eb404150b719
+SHA256SUM:	d8934ef006d308bb3ff3cd1792c12afdfd8880f8fe2d4f0555f2597b10a70417
+
+Name:	VMware-Player-12.5.9-7535481.x86_64.bundle
+Release Date:	2018-01-10
+Build Number:	7535481
+VMware Workstation 12.5.9 Player for Linux 64-bit.
+MD5SUM:	17d6e50219ce6029b1206acfb684ea43
+SHA1SUM:	75fe890810306ead06b4fdea685c2793e40facb8
+SHA256SUM:	2a967fe042c87b7a774ba1d5a7d63ee64f34b5220bf286370ca3439fed60487a
+
+
 
 
 
