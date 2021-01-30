@@ -312,3 +312,52 @@ MD5SUM: d2e1e4fec535669a52aa51ed1d864868
 SHA1SUM: 1a8b073a99d7dcb9a6bbdf4b862bc714e92da71c
 
 
+VMware Products Update 14.0.0-6661328 (released on 2017-09-26)
+
+Windows
+Workstation
+https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.0.0-6661328.exe
+File : VMware-workstation-full-14.0.0-6661328.exe
+Size : 462.92 MB
+SHA-1 : 9E0C1154BD24A6950DE3E24A0590C3B4909C1FB3
+Release Notes: VMware Workstation 14 Pro Release Notes
+
+
+Player
+https://download3.vmware.com/software/player/file/VMware-player-14.0.0-6661328.exe
+File : VMware-player-14.0.0-6661328.exe
+Size : 90.73 MB
+SHA-1 : C198675259C35FDA3BAEEAD1007A5AE0BB668577
+Release Notes: VMware Workstation 14 Player Release Notes
+
+
+
+Linux
+Workstation
+https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-14.0.0-6661328.x86_64.bundle
+File : VMware-Workstation-Full-14.0.0-6661328.x86_64.bundle
+Size : 437.29 MB
+SHA-1 : E8BFDEDD81B1076D0E3DCD62D0BED23E3BCBC1F9
+Release Notes: VMware Workstation 14 Pro Release Notes
+
+
+Player
+https://download3.vmware.com/software/player/file/VMware-Player-14.0.0-6661328.x86_64.bundle
+File : VMware-Player-14.0.0-6661328.x86_64.bundle
+Size : 110.17 MB
+SHA-1 : 1A8B073A99D7DCB9A6BBDF4B862BC714E92DA71C
+Release Notes: VMware Workstation 14 Player Release Notes
+
+
+
+Mac
+Fusion
+https://download3.vmware.com/software/fusion/file/VMware-Fusion-10.0.0-6665085.dmg
+File : VMware-Fusion-10.0.0-6665085.dmg
+Size : 469.74 MB
+SHA-1 : 36BB83C15F3A8B4456817D30A783F207DF167599
+Release Notes: VMware Fusion 10.0 Release Notes
+
+
+
+
